@@ -1,0 +1,10 @@
+{
+  "name": "mplus-lead-scoring",
+  "version": "1.0.0",
+  "description": "Deployed lead-scoring agent for Northern Coast Beverages inbound leads.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run.js"
+  }
+}
